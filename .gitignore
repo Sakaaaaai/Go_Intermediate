@@ -1,0 +1,9 @@
+*.test
+*.exe
+*.out
+.DS_Store
+
+# 受講生に公開しない制作用ファイル
+HANDOFF.md
+PROGRESS.md
+_build_repo.py
